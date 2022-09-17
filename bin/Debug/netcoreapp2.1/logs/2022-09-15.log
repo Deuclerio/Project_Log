@@ -1,0 +1,22 @@
+2022-09-15 16:20:12.0594 INFO - User profile is available. Using 'C:\Users\deucl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. - 
+
+2022-09-15 16:20:12.6901 INFO - Request starting HTTP/1.1 GET http://localhost:59633/api/values   - 
+
+2022-09-15 16:20:12.6901 INFO - Request starting HTTP/1.1 DEBUG http://localhost:59633/  0 - 
+
+2022-09-15 16:20:12.7464 INFO - Request finished in 52.7626ms 200  - 
+
+2022-09-15 16:20:13.0537 INFO - Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller Exemplo.Web.Log.Controllers.ValuesController (Exemplo.Web.Log). - 
+
+2022-09-15 16:20:13.0622 INFO - Executing action method Exemplo.Web.Log.Controllers.ValuesController.Get (Exemplo.Web.Log) - Validation state: Valid - 
+
+2022-09-15 16:20:15.2901 ERROR - Erro Deuclerio 1 - 
+
+2022-09-15 16:20:15.3039 INFO - Executed action method Exemplo.Web.Log.Controllers.ValuesController.Get (Exemplo.Web.Log), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2234.9283ms. - 
+
+2022-09-15 16:20:15.3144 INFO - Executing ObjectResult, writing value of type 'System.String[]'. - 
+
+2022-09-15 16:20:15.3971 INFO - Executed action Exemplo.Web.Log.Controllers.ValuesController.Get (Exemplo.Web.Log) in 2339.9818ms - 
+
+2022-09-15 16:20:15.4085 INFO - Request finished in 2719.2521ms 200 application/json; charset=utf-8 - 
+
